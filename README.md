@@ -13,7 +13,7 @@ To run the game, you'll need:
 
 ## How to Run the Game
 
-1. Clone the repository to your local machine: `git clone https://github.com/yourusername/choose_your_own_adventure.git`
+1. Clone the repository to your local machine: `git clone https://github.com/amy6768/choose_your_own_adventure.git`
 2. Navigate to the project directory: `cd choose_your_own_adventure`
 3. Run the game: `python main.py`
 
