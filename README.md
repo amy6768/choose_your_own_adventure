@@ -1,4 +1,3 @@
-Sure, here's a readme for a Choose Your Own Adventure game created with Tkinter and Python:
 
 # Choose Your Own Adventure Game
 
