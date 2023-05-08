@@ -23,7 +23,7 @@ To run the game, you'll need:
 2. Read the scenario carefully and select the choice you want to make by clicking on the corresponding button.
 3. Your choice will lead to the next scenario and set of choices.
 4. Keep making choices until you reach the end of the game.
-5. You have the option to start the game over when the game has ended
+5. You have the option to start the game over when the game has ended.
 
 ## License
 
